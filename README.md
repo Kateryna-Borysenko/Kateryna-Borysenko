@@ -128,6 +128,10 @@
 
 <div align="center">
 
+<a href="https://github.com/Kateryna-Borysenko/natours">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=natours&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
+</a>
+
 <a href="https://github.com/Kateryna-Borysenko/phonebook-frontend">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=phonebook-frontend&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
@@ -152,10 +156,6 @@
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=phonebook&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Kateryna-Borysenko/erato-apartmens">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=erato-apartmens&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
-</a>
-
 <a href="https://github.com/Kateryna-Borysenko/movie-searcher">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=movie-searcher&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
@@ -173,6 +173,10 @@
 </a>
 <a href="https://github.com/Kateryna-Borysenko/feedback-app">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=feedback-app&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Kateryna-Borysenko/erato-apartmens">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kateryna-borysenko&repo=erato-apartmens&title_color=ffffff&text_color=c9cacc&icon_color=white&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/Kateryna-Borysenko/web-studio">
